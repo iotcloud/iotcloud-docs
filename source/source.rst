@@ -28,7 +28,7 @@ mvn clean install
 This will build the project.
 
 
-iotcloud 
+IOTCloud 
 --------
 
 To compile IOTCloud project, go to the iotcloud folder and type
@@ -41,6 +41,20 @@ mvn clean install
 
 This will build the distribution as a tar and zip archive in the target folder of distributio folder. This archive can be extracted to run the iotcloud project.
 
+sensorstream
+------------
 
+Go to the sensorstream folder and type
 
+mvn clean install
 
+This will build the project.
+
+iotrobots
+---------
+
+Go to the iotrobots folder and type
+
+mvn clean install
+
+This will build the project.
