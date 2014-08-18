@@ -1,3 +1,6 @@
+Introduction
+============
+
 Since the standardization of the TCP/IP protocol suite over thirty years ago, the Internet has grown steadily from a collection of small research networks to a ubiquitous worldwide network of interconnected networks that serviced nearly two billion unique users in 2009 [8].  Now with the widespread availability of wireless Internet connectivity combined with the low cost of miniature electronic devices it possible to imagine the Internet expanded to include objects, embedded with sensors, communicating over the Internet in in vast numbers [9].  These smart objects are ordinary physical things which are augmented by a small computer that includes a sensor or actuator and a communication device [3].  A smart object is thus an embedded system, consisting of a thing (the physical entity) and a component (the computer) that processes the sensor data and supports a, usually, wireless communication link to the Internet [2].
 Smart objects can be battery-operated, but not always, and typically have three components: a CPU (8-, 16- or 32-bit micro-controller), memory (a few tens of kilobytes) and a low-power wireless communication device (from a few kilobits/s to a few hundreds of kilobits/s). The size is small and the price is low: a few square mm and few dollars [10].
 
