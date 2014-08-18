@@ -14,5 +14,33 @@ All these projects require JDK 1.6 or above and Python 2.7 or above. The project
 2. Python 2.7
 3. Maven 
 
+git is required to get a clone of the project as well.
+
+The build steps are explained in the order a new user should build the system
+
+storm-broker-connectos
+----------------------
+
+Go to the storm-broker-connectors folder and type
+
+mvn clean install
+
+This will build the project.
+
+
+iotcloud 
+--------
+
+To compile IOTCloud project, go to the iotcloud folder and type
+
+mvn clean install
+
+This will compile the project. To build the distribution go to the iotcloud/distribution folder and type 
+
+mvn clean install
+
+This will build the distribution as a tar and zip archive in the target folder of distributio folder. This archive can be extracted to run the iotcloud project.
+
+
 
 
