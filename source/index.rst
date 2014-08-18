@@ -8,6 +8,8 @@ IOTCloud
    :numbered:
 
    introduction
+   architecture
+   source
    installation
    drone
 
