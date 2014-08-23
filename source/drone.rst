@@ -12,7 +12,7 @@ a Cloud environment and will be processed there. The commands to control the dro
 in the Cloud and will be sent to the drone.
 
 Overall Architecture
-====================
+--------------------
 
 The information flow happens as in the following.
 
@@ -26,7 +26,7 @@ The Gateway relays this information to Apache Storm and the processing happens i
 
 
 BUILDING THE SOURCE CODE
-========================
+------------------------
 
 Before building the drone source code you need to build iotcloud project and storm-broker-connectors project.
 
@@ -84,7 +84,7 @@ mvn clean install
 This will build the drone code. If you only need to compile the drone you can do this by going to drone directory and typing the above command.
 
 Deployment
-==========
+----------
 
 There are two components of the project that needs to be deployed to get the data from the drone and run the processing in the cloud. They are the sensor and the processor.
 The sensor code is static and less likely to change. The processing code changes frequently.
