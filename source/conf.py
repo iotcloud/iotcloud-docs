@@ -328,10 +328,10 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Cloudmesh Plan'
-epub_author = u'Gregor von Laszewski'
-epub_publisher = u'Gregor von Laszewski'
-epub_copyright = u'2014, 2013, Gregor von Laszewski'
+epub_title = u'IOTCloud Plan'
+epub_author = u'Supun Kamburugamuve'
+epub_publisher = u'Supun Kamburugamuve'
+epub_copyright = u'2014, 2013, Supun Kamburugamuve'
 
 # The language of the text. It defaults to the language option
 # or en if the language is not set.

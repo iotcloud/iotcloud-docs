@@ -1,4 +1,3 @@
-
 ######################################################################
 IOTCloud
 ######################################################################
@@ -8,9 +7,11 @@ IOTCloud
    :numbered:
 
    introduction
+   architecture
    source
    installation
    drone
+   turtlebot
 
 
 Indices and tables
