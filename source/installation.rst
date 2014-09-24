@@ -12,7 +12,7 @@ To deploy a sensor and process its data you need to run
 
 Please refer Apache ZooKeeper installtion guide, RabbitMQ server installtion guide and Apache Storm installtion guide for how to deploy and run them.
 
-We will focus on running IOTCloud here. First we need to build the IOTCloud project as described in the source section.
+We will focus on running IOTCloud. First we need to build the IOTCloud project as described in the source section.
 
 The various configurations for the IOTCloud can be found in the conf/iot.yaml file.
 
